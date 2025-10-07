@@ -1,4 +1,5 @@
 # Simple Linear Regression with CRISP-DM
+https://aiothomework1-hlvwfiqh7xnk6jck2ot6ay.streamlit.app/(https://aiothomework1-hlvwfiqh7xnk6jck2ot6ay.streamlit.app/)
 
 This project is a web application that demonstrates simple linear regression. It is built with Python and Streamlit, and follows the CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology.
 

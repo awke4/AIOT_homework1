@@ -5,4 +5,4 @@ HW1: write python to solve simple linear regression problem, following CRISP-DM 
         3. streamlit or flask web, 框架 deployment
 detail result:
 https://github.com/huanchen1107/20250920_AutoDeployLR
-https://aiotda.streamlit.app/i
+https://aiotda.streamlit.app/
